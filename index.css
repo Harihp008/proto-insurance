@@ -12,7 +12,7 @@ nav{
   position: fixed;
 }
 .main-bg{
-  background-image: url(imgs/background-1.jpg);
+  background-image: url(/imgs/background-1.jpg);
   background-size: cover;
 }
 
@@ -141,7 +141,7 @@ nav{
   font-size: larger;
 }
 .back{
-  background-image: url(imgs/background-2.jpg);
+  background-image: url(/imgs/background-2.jpg);
   background-size: 100%;
 }
 
